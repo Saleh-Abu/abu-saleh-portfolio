@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import ExperienceCard from "./ExperienceCard";
-import { experiences } from "../../data/experience";
+import { experiences } from "../../data/Experience";
 
 function Experience() {
   return (
