@@ -6,22 +6,23 @@ The portfolio combines modern UI design with smooth animations, creative interac
 
 ## 🌐 Live Demo
 
-🚀 **Live Portfolio:** Coming Soon
-
-> The live deployment link will be added here after deployment.
+🚀 **Live Portfolio:**  
+https://abu-saleh-portfolio.vercel.app
 
 ## ✨ About the Portfolio
 
-This portfolio represents my journey as a developer and highlights my experience in building modern, responsive, and scalable web applications.
+This portfolio represents my journey as a developer and highlights my experience in building modern, responsive, and real-world web applications.
 
 It includes:
 
 - Interactive opening experience
-- Modern responsive design
-- Smooth animations and transitions
-- Interactive magical flame experience
+- Custom magical gate transition
+- Interactive Hero section
+- Magical flame experience
 - Dynamic navigation
-- Project showcase
+- Smooth scroll-based animations
+- Responsive design
+- Project showcase with live demos
 - Skills and technologies
 - Professional experience
 - Certifications
@@ -29,20 +30,20 @@ It includes:
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 
-- React.js
+- React
 - JavaScript
 - Vite
 - Tailwind CSS
 
-**Animations & UI**
+### Animations & UI
 
 - Framer Motion
 - React Icons
 - React Type Animation
 
-**Development Tools**
+### Development Tools
 
 - Git
 - GitHub
@@ -51,7 +52,7 @@ It includes:
 
 ## 🚀 Key Features
 
-### Interactive Opening Experience
+### ✨ Interactive Opening Experience
 
 A custom animated introduction featuring:
 
@@ -59,12 +60,13 @@ A custom animated introduction featuring:
 - Purple and cyan energy effects
 - Animated particles
 - Magical gate-opening transition
+- Smooth reveal of the main portfolio
 
-### Magical Hero Experience
+### 🔥 Magical Hero Experience
 
-The Hero section includes an interactive magical flame that responds to user interaction and creates a unique introduction to the portfolio.
+The Hero section includes a custom interactive magical flame experience that responds to user interaction and creates a unique introduction to the portfolio.
 
-### Smooth Animations
+### 🎨 Smooth Animations
 
 Framer Motion is used throughout the portfolio for:
 
@@ -74,9 +76,9 @@ Framer Motion is used throughout the portfolio for:
 - Interactive visual effects
 - Smooth transitions
 
-### Responsive Design
+### 📱 Responsive Design
 
-The portfolio is designed for:
+The portfolio is designed to work across:
 
 - Desktop
 - Laptop
@@ -93,9 +95,37 @@ The portfolio is designed for:
 - Certifications
 - Contact
 
+## 💼 Featured Projects
+
+### 🎂 Tempting Bites
+
+A full-stack cake ordering platform with product browsing, categories, wishlist, ratings, cart functionality, AI-powered assistance, and a complete Laravel backend.
+
+**Technologies:** Laravel, PHP, MySQL, Tailwind CSS, JavaScript, REST API, AI Integration
+
+**Live Demo:**  
+https://tempting-bites-production.up.railway.app/
+
+**Source Code:**  
+https://github.com/Saleh-Abu/tempting-bites
+
+---
+
+### 💻 Developer Portfolio
+
+A modern and responsive developer portfolio built to showcase my skills, projects, experience, and development journey with interactive animations and reusable React components.
+
+**Technologies:** React, JavaScript, Tailwind CSS, Framer Motion, Vite
+
+**Live Demo:**  
+https://abu-saleh-portfolio.vercel.app
+
+**Source Code:**  
+https://github.com/Saleh-Abu/abu-saleh-portfolio
+
 ## 💻 Run Locally
 
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Saleh-Abu/abu-saleh-portfolio.git

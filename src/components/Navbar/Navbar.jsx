@@ -514,7 +514,7 @@ function Navbar({ magicActivated }) {
             )}
           </AnimatePresence>
 
-          <ul className="relative flex items-center gap-6 xl:gap-8">
+            <ul className="relative flex items-center gap-8 xl:gap-10">
             {navLinks.map((link, index) => {
               const sectionId = getSectionId(link.path);
               const isActive = activeSection === sectionId;

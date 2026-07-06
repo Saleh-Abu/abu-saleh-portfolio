@@ -21,8 +21,12 @@ export const projects = [
       "AI Integration",
     ],
 
-    github: "https://github.com/Saleh-Abu/tempting-bites",
-    live: "",
+    github:
+      "https://github.com/Saleh-Abu/tempting-bites",
+
+    live:
+      "https://tempting-bites-production.up.railway.app/",
+
     featured: true,
   },
 
@@ -43,8 +47,12 @@ export const projects = [
       "Vite",
     ],
 
-    github: "",
-    live: "",
+    github:
+      "https://github.com/Saleh-Abu/abu-saleh-portfolio",
+
+    live:
+      "https://abu-saleh-portfolio.vercel.app",
+
     featured: true,
   },
 ];
