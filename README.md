@@ -1,16 +1,101 @@
-# React + Vite
+# Abu Saleh — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive, and responsive developer portfolio built to showcase my skills, projects, experience, certifications, and journey as a Full Stack Developer.
 
-Currently, two official plugins are available:
+The portfolio combines modern UI design with smooth animations, creative interactions, and a custom magical experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
 
-## React Compiler
+🚀 **Live Portfolio:** Coming Soon
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+> The live deployment link will be added here after deployment.
 
-## Expanding the ESLint configuration
+## ✨ About the Portfolio
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This portfolio represents my journey as a developer and highlights my experience in building modern, responsive, and scalable web applications.
+
+It includes:
+
+- Interactive opening experience
+- Modern responsive design
+- Smooth animations and transitions
+- Interactive magical flame experience
+- Dynamic navigation
+- Project showcase
+- Skills and technologies
+- Professional experience
+- Certifications
+- Contact section
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+- React.js
+- JavaScript
+- Vite
+- Tailwind CSS
+
+**Animations & UI**
+
+- Framer Motion
+- React Icons
+- React Type Animation
+
+**Development Tools**
+
+- Git
+- GitHub
+- VS Code
+- npm
+
+## 🚀 Key Features
+
+### Interactive Opening Experience
+
+A custom animated introduction featuring:
+
+- Dynamic loading progress
+- Purple and cyan energy effects
+- Animated particles
+- Magical gate-opening transition
+
+### Magical Hero Experience
+
+The Hero section includes an interactive magical flame that responds to user interaction and creates a unique introduction to the portfolio.
+
+### Smooth Animations
+
+Framer Motion is used throughout the portfolio for:
+
+- Entrance animations
+- Scroll-based reveals
+- Hover interactions
+- Interactive visual effects
+- Smooth transitions
+
+### Responsive Design
+
+The portfolio is designed for:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile devices
+
+## 📂 Portfolio Sections
+
+- Home
+- About
+- Skills
+- Projects & Work
+- Experience
+- Certifications
+- Contact
+
+## 💻 Run Locally
+
+Clone the repository:
+
+```bash
+git clone YOUR_REPOSITORY_URL
