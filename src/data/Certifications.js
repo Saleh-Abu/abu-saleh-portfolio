@@ -20,4 +20,22 @@ export const certifications = [
     certificate:
       "https://drive.google.com/file/d/1UqEEeS9UC5aR1VsGj7P3JlJ_09tIsuRA/view?usp=drive_link",
   },
+  {
+  id: 3,
+  title: "Generative AI Fundamentals",
+  issuer: "Coursera",
+  description:
+    "Gained foundational knowledge of Generative AI, Prompt Engineering, Large Language Models (LLMs), AI-assisted software development, and responsible AI practices.",
+
+  skills: [
+    "Generative AI",
+    "Prompt Engineering",
+    "Large Language Models",
+    "AI-Assisted Development",
+    "Responsible AI",
+  ],
+
+  certificate:
+    "https://drive.google.com/file/d/1alJO9EGFc3ATy8DquYYqpWSOyBzm2LhO/view?usp=drive_link",
+},
 ];
