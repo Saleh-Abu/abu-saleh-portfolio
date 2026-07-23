@@ -6,6 +6,7 @@ import {
   FaHtml5,
   FaCss3Alt,
   FaPhp,
+  FaJava,
 } from "react-icons/fa";
 
 import {
@@ -49,6 +50,11 @@ export const skills = [
     icon: FaPhp,
     category: "Backend",
   },
+  {
+  name: "Java",
+  icon: FaJava,
+  category: "Backend",
+},
   {
     name: "Laravel",
     icon: FaLaravel,
